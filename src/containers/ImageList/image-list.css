@@ -1,0 +1,12 @@
+
+li {
+  list-style-type: none;
+}
+
+li img {
+  max-width: 150px;
+  margin:auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
